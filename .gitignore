@@ -4,3 +4,8 @@ x64/Debug/ZWMessaging.tlog/ZWMessaging.lastbuildstate
 *.obj
 *.pdb
 *.idb
+*.lib
+*.recipe
+*.user
+*.log
+x64/Debug/ZWMessaging.vcxproj.FileListAbsolute.txt
