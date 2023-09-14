@@ -17,4 +17,4 @@ This uses the Windows messages and the WM_COPYDATA
 4. This does not work for Windows Services, Console apps, or other applications without a message pump.
 
 ## Reference
-This was written based on the [XDMessaging.Net](https://github.com/TheCodeKing/XDMessaging.Net) developed by TheCodeKing using c# for .net based applications. In case your C++ native application wants to communicate with a C# application or process, you can make use of the XDMessaging.Net.
+This was written based on the [XDMessaging.Net](https://github.com/TheCodeKing/XDMessaging.Net) developed by TheCodeKing using c# for .net based applications.
